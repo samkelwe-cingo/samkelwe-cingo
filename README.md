@@ -8,7 +8,7 @@ I am an IT Support professional with a foundation in PC Support, technical troub
 
 ## 🛠️ Skills & Areas of Interest
 
-- 🖥️ Windows Support (Windows 10 & Windows 11)
+- 🖥️ Windows Support (Windows 10 & Windows 11) 
 - 🔧 Hardware & Software Troubleshooting
 - 💻 PC Support & Maintenance
 - 🌐 Networking Fundamentals
