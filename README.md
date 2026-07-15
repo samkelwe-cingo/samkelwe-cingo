@@ -33,10 +33,10 @@ A practical documentation project covering Windows installation steps, setup pro
 A practical IT support knowledge base covering hardware checks, Windows maintenance, troubleshooting methods, and preventative maintenance practices.
 
 More IT support projects coming soon:
-- PC Maintenance & Troubleshooting
 - Hardware Upgrade Documentation
 - Home Network Setup
 - Help Desk Knowledge Base
+- Microsoft Office & Microsoft 365 Setup
 
 ## 🎯 Career Goals
 
