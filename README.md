@@ -29,6 +29,9 @@ I am an IT Support professional with a foundation in PC Support, technical troub
 ### Windows Installation & Configuration Guide
 A practical documentation project covering Windows installation steps, setup processes, and configuration practices.
 
+### PC Maintenance & Troubleshooting Guide
+A practical IT support knowledge base covering hardware checks, Windows maintenance, troubleshooting methods, and preventative maintenance practices.
+
 More IT support projects coming soon:
 - PC Maintenance & Troubleshooting
 - Hardware Upgrade Documentation
