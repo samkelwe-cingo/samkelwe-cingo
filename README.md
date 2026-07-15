@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Samkelwe Cingo 👋
 
-<!--
-**samkelwe-cingo/samkelwe-cingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 IT Support Specialist | Help Desk | Desktop Support
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an IT Support professional with a foundation in PC Support, technical troubleshooting, customer service, and administration. I enjoy solving technical problems, learning new technologies, and building practical IT documentation projects.
+
+## 🛠️ Skills & Areas of Interest
+
+- 🖥️ Windows Support (Windows 10 & Windows 11)
+- 🔧 Hardware & Software Troubleshooting
+- 💻 PC Support & Maintenance
+- 🌐 Networking Fundamentals
+- 📁 IT Documentation & Knowledge Base Articles
+- 🧰 System Configuration
+- 🤝 User Support & Customer Service
+
+## 📚 Currently Learning
+
+- Microsoft technologies
+- Networking concepts
+- IT Support best practices
+- PowerShell fundamentals
+- Cloud fundamentals
+
+## 📂 Featured Projects
+
+### Windows Installation & Configuration Guide
+A practical documentation project covering Windows installation steps, setup processes, and configuration practices.
+
+More IT support projects coming soon:
+- PC Maintenance & Troubleshooting
+- Hardware Upgrade Documentation
+- Home Network Setup
+- Help Desk Knowledge Base
+
+## 🎯 Career Goals
+
+I am building my career in IT Support, Help Desk, Desktop Support, and Technical Support roles while continuously improving my technical skills.
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/samkelwe-cingo
+
+GitHub:
+https://github.com/samkelwe-cingo
